@@ -1,0 +1,1 @@
+Pérez Galán, A. (2026). Sistema Liberador de Vitalidad Humana: Modelo funcional de vitalidad y validación suficiente intra-caso mediante saturación por convergencia [Propuesta doctoral, obra científica inédita]. Zenodo. https://doi.org
