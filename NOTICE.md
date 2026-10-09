@@ -64,6 +64,4 @@ Andrés Pérez Galán
 
 ## Intellectual Property
 
-All intellectual property rights remain exclusively with the author unless explicitly stated otherwise.
-
-Publication on GitHub does not imply permission to reproduce, modify, commercialize, or redistribute this work beyond the permissions described in the LICENSE file.
+© Andrés Pérez Galán, 2026. *Sistema liberador de vitalidad humana (SLVH)*. Registro de la Propiedad Intelectual de la Comunidad de Madrid. N.º de asiento registral 16/2026/9237.
